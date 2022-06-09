@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.38be36b0.css",
-    "main.js": "/static/js/main.c5632c77.js",
-    "static/js/787.a81e249b.chunk.js": "/static/js/787.a81e249b.chunk.js",
-    "static/media/logo.png": "/static/media/logo.f7d23089e64267c089fe.png",
-    "index.html": "/index.html",
-    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
-    "main.c5632c77.js.map": "/static/js/main.c5632c77.js.map",
-    "787.a81e249b.chunk.js.map": "/static/js/787.a81e249b.chunk.js.map"
+    "main.css": "https://dhananjay4allprogramming.github.io/mix/static/css/main.38be36b0.css",
+    "main.js": "https://dhananjay4allprogramming.github.io/mix/static/js/main.032bd8c1.js",
+    "static/js/787.a81e249b.chunk.js": "https://dhananjay4allprogramming.github.io/mix/static/js/787.a81e249b.chunk.js",
+    "static/media/logo.png": "https://dhananjay4allprogramming.github.io/mix/static/media/logo.f7d23089e64267c089fe.png",
+    "index.html": "https://dhananjay4allprogramming.github.io/mix/index.html",
+    "main.38be36b0.css.map": "https://dhananjay4allprogramming.github.io/mix/static/css/main.38be36b0.css.map",
+    "main.032bd8c1.js.map": "https://dhananjay4allprogramming.github.io/mix/static/js/main.032bd8c1.js.map",
+    "787.a81e249b.chunk.js.map": "https://dhananjay4allprogramming.github.io/mix/static/js/787.a81e249b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.c5632c77.js"
+    "static/js/main.032bd8c1.js"
   ]
 }
